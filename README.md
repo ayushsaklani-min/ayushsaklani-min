@@ -61,7 +61,7 @@
   
   **🏆 Hackathons:** Polygon Buildathon, Aya AI Buildathon, Linera Buildathon, Sideshift Buildathon
   
-  **💰 Total Grants:** 850+ USDC
+  **💰 Total Grants:** 1300+ USDC
   
   **🚀 Projects:** Synapsenet, AutoXshift, CopilotX_DeX, OracleX ,AutoXshift
   
